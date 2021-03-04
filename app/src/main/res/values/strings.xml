@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">androidIntentTutorial</string>
+    <string name="show_name">Show Name</string>
+    <string name="name">Name</string>
+    <string name="enter_name">Enter Name</string>
+    <string name="name_viewer">name_viewer</string>
+</resources>
